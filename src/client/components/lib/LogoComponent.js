@@ -5,7 +5,6 @@ class LogoComponent extends Component {
 		return (
 			<article>
 				<img className='logo-hero' src='/logo.svg' />
-				<h3>Happy coding! 🤘</h3>
 			</article>
 		)
 	}
